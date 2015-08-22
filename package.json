@@ -1,5 +1,5 @@
 {
-  "name": "epdoc-kaiseki",
+  "name": "kaiseki",
   "description": "A Parse.com REST API Client for Node.js",
   "version": "0.5.7",
   "homepage": "https://github.com/shiki/kaiseki",
